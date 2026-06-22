@@ -14,7 +14,7 @@ This is a simple exercise to practice making your first commit.
 
 | Name | Email | Discord name |
 |------|-------|-------|
-| Tito Julio González Padial | titojuliogonzalez@gmail.com | tgp034 |
+| Stanimir Ivanov Donchev | stanimir.donchev.pp28@pgmtplovdiv.info | Miru |
 
 ## 🔗 Links
 
