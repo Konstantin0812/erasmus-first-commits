@@ -19,7 +19,7 @@ This is a simple exercise to practice making your first commit.
 ## 🔗 Links
 
 - 📝 [Student survey](https://forms.gle/A26ANFmikpEdypmLA)
-- 💬 [Join our Discord](https://discord.gg/uWxRnwhJn)
+- 💬 [Join our Discord](https://discord.gg/nP9ebrF4A)
 
 ---
 *Erasmus Programming Intensive 2026*
