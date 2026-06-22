@@ -15,6 +15,7 @@ This is a simple exercise to practice making your first commit.
 | Name | Email | Discord name |
 |------|-------|-------|
 | Tito Julio González Padial | titojuliogonzalez@gmail.com | tgp034 |
+| Aleks  | alex.ivanov3590@gmail.com  | Alito |
 
 ## 🔗 Links
 
@@ -23,3 +24,5 @@ This is a simple exercise to practice making your first commit.
 
 ---
 *Erasmus Programming Intensive 2026*
+
+
